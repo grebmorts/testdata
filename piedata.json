@@ -1,0 +1,16 @@
+{
+    "description": "Sausage tail ribeye frankfurter shoulder pastrami short loin drumstick tenderloin cupim jowl pig. Meatloaf biltong picanha ball tip cow flank pig kielbasa beef ribs. Beef turkey shoulder venison capicola meatball, corned beef sirloin picanha. Boudin buffalo swine flank kevin chuck, pork loin sausage pork chop cow rump pork belly beef. Turducken tri-tip hamburger ribeye pork tail meatloaf, pastrami ball tip burgdoggen cow sirloin short loin. Kevin picanha beef ribs capicola rump. Hamburger short loin boudin kevin, pastrami meatball ball tip shoulder.",
+    "title": "MVP Pie Chart Demo",    
+    "data": [
+        {
+            "id": 1, 
+            "num": 1167.0, 
+            "description": "kvantitatiivisia aineistoja"
+        }, 
+        {
+            "id": 2, 
+            "num": 191.0, 
+            "description": "kvalitatiivisia aineistoja"
+        }
+    ]
+}
